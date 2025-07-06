@@ -13,5 +13,5 @@ Feature: Book a ticket at the lowest price
     Then I capture and print the lowest price and its corresponding date
     Then wait for 2 seconds
     And I click on the search button to proceed
-    #And Close the Browser
+    And Close the Browser
     
